@@ -2,7 +2,7 @@
 - 👀 I’m interested in eg
 - 🌱 I’m currently learning gava-html-css
 - 💞️ I’m looking to collaborate on soon
-- 📫 How to reach me laymankyrillosaym@gmal.com
+- 📫 How to reach me kyrillos_ayman@yahoo.com
 
 <!---
 kyrillosayman/kyrillosayman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
